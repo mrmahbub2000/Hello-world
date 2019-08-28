@@ -96,4 +96,6 @@ v_dt := v_dt + 1 ;
                                 ) ;
                 Commit ;
 End loop;                
-End ;                
+End ;      
+                                                                        
+commit;                                                                     
